@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-    <img src= "https://giphy.com/gifs/angry-frustrated-L4AQvif7x9fS8" width="100"/>
+    <iframe src="https://giphy.com/embed/L4AQvif7x9fS8" width="480" height="277" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/angry-frustrated-L4AQvif7x9fS8">via GIPHY</a></p>
 </div>
 
 About me:
