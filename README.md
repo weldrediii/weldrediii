@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+    <img src= "https://giphy.com/gifs/angry-frustrated-L4AQvif7x9fS8" width="100"/>
+</div>
+
 About me:
 - I am a Junior Clemson Computer Science student from New Jersey :tiger:
 - I'm an Eagle Scout :eagle:
@@ -26,4 +30,4 @@ About me:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-
+</div>
